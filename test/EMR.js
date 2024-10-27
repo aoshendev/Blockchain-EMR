@@ -1,4 +1,4 @@
-var EMR = artifacts.require("./EMR.sol");
+var EMR = artifacts.require("./EMRContract.sol");
 
 var Web3 = require('web3');
 var web3 = new Web3(new Web3.providers.HttpProvider("http://localhost:7545"));

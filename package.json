@@ -25,6 +25,6 @@
   "dependencies": {
     "ethereumjs-util": "^5.2.0",
     "truffle-contract": "^3.0.6",
-    "web3": "^1.0.0-beta.35"
+    "web3": "^1.10.4"
   }
 }
